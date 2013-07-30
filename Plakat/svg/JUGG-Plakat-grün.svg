@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="JUGG-Plakat.svg">
+   sodipodi:docname="JUGG-Plakat-gr++n.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -36,8 +36,8 @@
        id="linearGradient4194"
        x1="548.57141"
        y1="178.07646"
-       x2="350"
-       y2="980.93353"
+       x2="217.14285"
+       y2="1430.9336"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -48,15 +48,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="302.32095"
-     inkscape:cy="494.32653"
+     inkscape:cx="28.749521"
+     inkscape:cy="465.919"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="1138"
+     inkscape:window-height="878"
      inkscape:window-x="-8"
-     inkscape:window-y="32"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -226,543 +226,6 @@
          y="568.43713">19:00 Uhr</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:35.94699097px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="169.13776"
-       y="922.77179"
-       id="text3858-1-8"
-       sodipodi:linespacing="125%"
-       transform="scale(0.89867478,1.1127496)"><tspan
-         sodipodi:role="line"
-         x="169.13776"
-         y="922.77179"
-         id="tspan3992">www.juggr.de       info@juggr.de </tspan></text>
-    <g
-       id="g3024"
-       transform="matrix(1.4147465,0,0,1.3502304,443.92857,332.00504)">
-	<path
-   id="path3026"
-   d="M 0,155 H 155 V 0 H 0 V 155 z M 140,45 h 10 v 5 h -5 v 5 h -5 V 45 z M 150,5 V 40 H 115 V 5 h 35 z m -45,15 h 5 v 10 h -10 v -5 h 5 v -5 z m 5,-5 h -5 v -5 h -5 v 5 H 95 V 10 H 85 v 5 h 5 v 5 h 5 v 15 h 5 v 5 h 5 v -5 h 5 v 5 h -5 v 5 H 90 v 5 h -5 v 5 h 5 v 5 h -5 v -5 h -5 v 5 H 65 v 5 h -5 v 5 h 10 v -5 h 5 v 5 h 5 v -5 h 10 v 15 h -5 v 10 h 5 v 5 h 5 v 5 h -5 v 10 h 5 v 10 h 5 v -5 h 5 v -10 h 5 v -5 h 10 v 5 h 5 V 85 h 5 v -5 h 10 v 15 h -5 v 10 h 5 v -5 h 5 V 90 h 5 v 10 h -5 v 5 h -5 v 5 h 5 v 5 h -15 v 5 h 5 v 5 h -5 v 5 h -5 v 5 h 15 v -10 h 5 v -5 h 5 v 10 h -5 v 10 h 5 v 5 h -5 v -5 h -5 v 10 h -5 v -5 h -5 v 5 h -5 v -15 h -5 v -5 h -5 v 5 h -5 v -5 h -10 v 15 h 5 v -5 h 10 v 5 h 5 v 5 h -20 v -5 h -5 v 5 h -5 v -5 h -5 v 5 H 75 v -5 h -5 v 5 h -5 v -5 h -5 v 5 H 50 v -5 h -5 v -5 h 5 v -10 h 5 v 5 h 5 v 5 h 15 v -5 h 15 v 10 h 5 V 130 H 90 V 120 H 80 v -10 h 5 v -5 H 70 v -5 h -5 v -5 h 5 v 5 H 85 V 90 h -5 v 5 H 75 V 90 H 60 v 10 H 55 V 95 H 45 V 90 H 30 v 5 h 10 v 5 h 10 v 10 h 5 v 5 h -5 v 5 H 45 V 110 H 30 v -5 h -5 v 5 h -5 v -10 h 5 V 90 h -5 v 5 H 15 V 85 h 10 v 5 h 5 V 80 h -5 v -5 h 5 V 70 H 25 V 65 H 5 V 60 H 20 V 50 h 10 v 10 h 5 v -5 h 5 v -5 h -5 v -5 h 15 v -5 h -5 v -5 h 5 v 5 h 5 V 30 h -5 v -5 h 5 V 15 h 5 v -5 h 5 v 10 h -5 v 5 h 5 v 5 h 10 v 5 h 5 V 20 H 70 v -5 h 5 V 5 h 5 v 5 h 5 V 5 h 10 v 5 h 5 V 5 h 10 v 10 z m 0,30 h 5 v 5 h 10 v 5 h -5 v 5 h 5 v 10 h 5 v -5 h 5 v 10 h -10 v -5 h -5 v 5 h -5 v 5 h 5 v 5 h -5 v 10 h -5 V 90 H 95 v -5 h 10 V 75 h -5 v 5 H 95 V 70 h 15 V 65 H 95 v -5 h 5 v -5 h -5 v -5 h 5 v 5 h 5 v 5 h 10 V 50 h -5 v -5 z m -10,50 h 5 v 5 h -5 v -5 z m 45,-25 h 5 v 5 H 140 V 65 h 5 v 5 z M 135,55 v 5 h -5 v -5 h 5 z m 15,25 v 5 h -5 v -5 h 5 z M 45,5 h 5 V 15 H 45 V 5 z M 10,45 h 5 v 5 H 10 V 45 z M 5,40 V 5 H 40 V 40 H 5 z m 5,30 h 5 v 5 h 5 v 5 H 10 v 5 H 5 V 75 h 5 v -5 z m 55,40 h 5 v 5 h -5 v -5 z m -10,10 h 5 v 5 h 10 v 5 H 60 v -5 h -5 v -5 z m 20,10 v -5 h 10 v 5 H 75 z M 15,100 v 10 h -5 v -10 h 5 z M 5,115 h 35 v 35 H 5 v -35 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3028"
-   d="m 150,45 h -10 v 10 h 5 v -5 h 5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3030"
-   d="M 150,40 V 5 h -35 v 35 h 35 z M 145,10 V 35 H 120 V 10 h 25 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3032"
-   d="M 145,35 V 10 h -25 v 25 h 25 z M 125,15 h 15 V 30 H 125 V 15 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3034"
-   d="m 140,15 h -15 v 15 h 15 V 15 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3036"
-   d="m 110,20 h -5 v 5 h -5 v 5 h 10 V 20 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3038"
-   d="m 105,15 h 5 V 5 h -10 v 5 h 5 v 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3040"
-   d="m 100,10 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3042"
-   d="M 95,10 V 5 H 85 v 5 h 10 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3044"
-   d="m 85,20 h 5 v -5 h -5 v 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3046"
-   d="m 90,20 h -5 v 10 h 5 V 20 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3048"
-   d="m 85,20 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3050"
-   d="M 95,20 H 90 V 30 H 85 V 20 h -5 v 15 h 5 v 5 h 5 v -5 h 5 V 20 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3052"
-   d="M 85,15 V 10 H 80 V 5 h -5 v 10 h -5 v 5 h 10 v -5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3054"
-   d="m 100,35 h -5 v 5 h -5 v 5 h 15 v -5 h -5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3056"
-   d="m 85,45 h 5 v -5 h -5 v 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3058"
-   d="m 90,45 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3060"
-   d="m 85,45 v -5 h -5 v -5 h -5 v 10 h -5 v 5 H 60 v -5 h -5 v -5 h -5 v 5 H 35 v 5 h 5 v 5 h 5 v -5 h 10 v 5 h 10 v 5 h 15 v -5 h 5 v -5 h -5 v -5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3062"
-   d="m 90,40 h 5 v -5 h -5 v 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3064"
-   d="m 85,40 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3066"
-   d="m 110,35 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3068"
-   d="m 85,60 h 5 v -5 h -5 v 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3070"
-   d="m 85,80 h 5 V 65 H 80 v 5 h -5 v -5 h -5 v 5 H 60 v -5 h 5 V 60 H 55 v 5 H 45 v 5 h -5 v 5 h -5 v -5 h 5 v -5 h -5 v -5 h -5 v 5 h -5 v 5 h 5 v 5 h -5 v 5 h 5 v 10 h 15 v -5 h 5 v -5 h -5 v -5 h 5 v -5 h 5 v 5 h 10 v 5 H 55 v 5 h 5 v 5 h 15 v 5 h 5 v -5 h 5 V 80 z m -45,0 v 5 h -5 v -5 h 5 z M 80,75 V 85 H 70 V 75 h 10 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3072"
-   d="m 40,85 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3074"
-   d="M 80,85 V 75 H 70 v 10 h 10 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3076"
-   d="m 90,95 v -5 h -5 v 10 H 70 v 5 h 15 v 5 h 5 v -10 h 5 v -5 h -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3078"
-   d="m 130,80 v 5 h -5 v 20 h -5 v -5 h -10 v 5 h -5 v 10 h -5 v 5 h -5 v -10 h -5 v 5 h -5 v -5 h -5 v 10 h 10 v 10 h 5 v -5 h 5 v 5 h 10 v 5 h 5 v -5 h 5 v 5 h 5 v -5 h 5 v -5 h 5 v -5 h -5 v -5 h 15 v -5 h -5 v -5 h -5 v 5 h -5 v -5 h 5 V 95 h 5 V 80 h -10 z m -5,30 v 15 h -15 v -15 h 15 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3080"
-   d="m 125,125 v -15 h -15 v 15 h 15 z m -5,-10 v 5 h -5 v -5 h 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3082"
-   d="m 120,120 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3084"
-   d="m 150,90 h -5 v 10 h 5 V 90 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3086"
-   d="m 85,50 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3088"
-   d="M 65,20 V 10 h -5 v 5 h -5 v 10 h 5 v -5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3090"
-   d="m 60,25 v 5 h 5 v -5 h -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3092"
-   d="m 60,30 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3094"
-   d="m 55,30 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3096"
-   d="m 60,30 h -5 v 10 h 5 V 30 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3098"
-   d="m 50,35 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3100"
-   d="m 55,45 h 5 v -5 h -5 v 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3102"
-   d="m 60,40 v 5 h 5 v -5 h -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3104"
-   d="m 60,30 v 10 h 5 V 30 h -5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3106"
-   d="M 75,35 V 30 H 65 v 10 h 5 v -5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3108"
-   d="m 65,40 v 5 h -5 v 5 h 10 v -5 h 5 V 35 h -5 v 5 h -5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3110"
-   d="m 35,60 h 5 v -5 h -5 v 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3112"
-   d="m 40,60 h -5 v 5 h 5 v 5 h 5 V 65 H 55 V 60 H 65 V 55 H 55 V 50 H 45 v 5 h 5 v 5 h -5 v -5 h -5 v 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3114"
-   d="m 25,60 h 5 V 50 H 20 V 60 H 5 v 5 h 20 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3116"
-   d="m 30,60 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3118"
-   d="m 40,70 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3120"
-   d="m 15,95 h 5 v -5 h 5 V 85 H 15 v 10 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3122"
-   d="m 30,95 v -5 h -5 v 10 h -5 v 10 h 5 v -5 h 5 v -5 H 40 V 95 H 30 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3124"
-   d="m 50,60 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3126"
-   d="m 55,70 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3128"
-   d="m 55,75 v 5 H 65 V 75 H 55 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3130"
-   d="m 55,80 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3132"
-   d="m 60,85 h -5 v -5 h -5 v 5 h -5 v 5 h 15 v -5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3134"
-   d="m 50,80 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3136"
-   d="m 45,90 v 5 h 10 v 5 h 5 V 90 H 45 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3138"
-   d="m 70,95 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3140"
-   d="M 50,110 V 100 H 40 v 5 H 30 v 5 h 15 v 10 h 5 v -5 h 5 v -5 h -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3142"
-   d="m 55,135 v -5 h -5 v 10 h 5 v 5 h -5 v 5 h 10 v -5 h 5 v 5 h 5 v -5 h 5 v -5 H 60 v -5 h -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3144"
-   d="m 45,145 h 5 v -5 h -5 v 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3146"
-   d="m 50,140 v 5 h 5 v -5 h -5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3148"
-   d="m 75,140 v 5 h 10 v -5 H 75 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3150"
-   d="m 75,135 v 5 h 10 v 5 h 5 V 135 H 75 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3152"
-   d="m 40,105 v -5 H 30 v 5 h 10 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3154"
-   d="m 75,145 v 5 h 10 v -5 H 75 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3156"
-   d="m 145,105 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3158"
-   d="m 150,120 h -5 v 5 h -5 v 10 h -15 v 15 h 5 v -5 h 5 v 5 h 5 v -10 h 5 v -10 h 5 v -10 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3160"
-   d="m 135,110 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3162"
-   d="m 150,145 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3164"
-   d="m 90,110 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3166"
-   d="m 95,130 h 5 v -5 h -5 v 5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3168"
-   d="m 100,130 h -5 v 15 h 5 v -15 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3170"
-   d="m 95,145 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3172"
-   d="m 105,140 v 5 h -5 v 5 h 20 v -5 h -5 v -5 h -10 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3174"
-   d="m 115,45 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3176"
-   d="m 120,60 v -5 h 5 v -5 h -10 v 10 h -10 v -5 h -5 v 5 h -5 v 5 h 15 v 5 h 5 v 5 h 5 v -5 h 5 V 60 h -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3178"
-   d="m 115,70 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3180"
-   d="m 100,55 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3182"
-   d="m 100,80 v -5 h 5 V 85 H 95 v 5 h 15 v 5 h 5 V 85 h 5 v -5 h -5 v -5 h -5 V 70 H 95 v 10 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3184"
-   d="m 130,70 h -5 v 5 h 10 V 65 h -5 v 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3186"
-   d="m 105,95 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3188"
-   d="m 150,70 h -5 v -5 h -5 v 10 h 10 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3190"
-   d="m 135,60 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3192"
-   d="m 150,85 v -5 h -5 v 5 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3194"
-   d="m 50,5 h -5 v 10 h 5 V 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3196"
-   d="m 15,45 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3198"
-   d="M 5,5 V 40 H 40 V 5 H 5 z m 5,30 V 10 H 35 V 35 H 10 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3200"
-   d="M 10,10 V 35 H 35 V 10 H 10 z m 20,5 V 30 H 15 V 15 h 15 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3202"
-   d="M 30,30 V 15 H 15 v 15 h 15 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3204"
-   d="m 15,70 h -5 v 5 H 5 v 10 h 5 v -5 h 10 v -5 h -5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3206"
-   d="m 70,110 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3208"
-   d="m 60,120 h -5 v 5 h 5 v -5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3210"
-   d="m 60,125 v 5 h 10 v -5 H 60 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3212"
-   d="m 75,125 v 5 h 10 v -5 H 75 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3214"
-   d="m 15,110 v -10 h -5 v 10 h 5 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3216"
-   d="M 40,115 H 5 v 35 h 35 v -35 z m -5,5 v 25 H 10 v -25 h 25 z"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3218"
-   d="M 35,145 V 120 H 10 v 25 h 25 z m -20,-5 v -15 h 15 v 15 H 15 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path3220"
-   d="m 15,125 v 15 H 30 V 125 H 15 z"
-   inkscape:connector-curvature="0" />
-
-</g>
-    <text
-       xml:space="preserve"
        style="font-size:50.74985504px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended"
        x="142.80392"
        y="717.85181"
@@ -808,5 +271,36 @@
          x="405.07755"
          y="214.35934"
          id="tspan4166">      hier</tspan></text>
+    <g
+       id="g3141"
+       transform="matrix(0.83341667,0,0,0.83341667,454.18571,306.75652)">
+      <rect
+         id="rect3130"
+         height="250"
+         width="250"
+         y="0"
+         x="0"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="elements">
+        <path
+           id="path3133"
+           d="M 0,0 10,0 10,10 0,10 0,0 M 100,0 20,0 20,10 10,10 10,0 M 200,0 30,0 30,10 20,10 20,0 M 300,0 40,0 40,10 30,10 30,0 M 400,0 50,0 50,10 40,10 40,0 M 500,0 60,0 60,10 50,10 50,0 M 600,0 70,0 70,10 60,10 60,0 M 800,0 90,0 90,10 80,10 80,0 m 820,0 -800,0 0,10 -10,0 0,-10 m 1010,0 -980,0 0,10 -10,0 0,-10 m 1090,0 -1070,0 0,10 -10,0 0,-10 m 1180,0 -1160,0 0,10 -10,0 0,-10 m 1470,0 -1430,0 0,10 -10,0 0,-10 m 1640,0 -1610,0 0,10 -10,0 0,-10 m 1720,0 -1700,0 0,10 -10,0 0,-10 m 1810,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 1990,0 -1970,0 0,10 -10,0 0,-10 m 2080,0 -2060,0 0,10 -10,0 0,-10 m 2170,0 -2150,0 0,10 -10,0 0,-10 M 0,10 10,10 10,20 0,20 0,10 m 600,0 -530,0 0,10 -10,0 0,-10 m 1040,0 -980,0 0,10 -10,0 0,-10 m 1090,0 -1070,0 0,10 -10,0 0,-10 m 1280,0 -1250,0 0,10 -10,0 0,-10 m 1360,0 -1340,0 0,10 -10,0 0,-10 m 1450,0 -1430,0 0,10 -10,0 0,-10 m 1640,0 -1610,0 0,10 -10,0 0,-10 m 2220,0 -2150,0 0,10 -10,0 0,-10 M 0,20 10,20 10,30 0,30 0,20 m 200,0 -170,0 0,10 -10,0 0,-10 m 280,0 -260,0 0,10 -10,0 0,-10 m 370,0 -350,0 0,10 -10,0 0,-10 m 560,0 -530,0 0,10 -10,0 0,-10 m 840,0 -800,0 0,10 -10,0 0,-10 m 1010,0 -980,0 0,10 -10,0 0,-10 m 1090,0 -1070,0 0,10 -10,0 0,-10 m 1480,0 -1430,0 0,10 -10,0 0,-10 m 1640,0 -1610,0 0,10 -10,0 0,-10 m 1820,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 1990,0 -1970,0 0,10 -10,0 0,-10 m 2180,0 -2150,0 0,10 -10,0 0,-10 M 0,30 10,30 10,40 0,40 0,30 m 200,0 -170,0 0,10 -10,0 0,-10 m 280,0 -260,0 0,10 -10,0 0,-10 m 370,0 -350,0 0,10 -10,0 0,-10 m 560,0 -530,0 0,10 -10,0 0,-10 m 840,0 -800,0 0,10 -10,0 0,-10 m 1110,0 -1070,0 0,10 -10,0 0,-10 m 1180,0 -1160,0 0,10 -10,0 0,-10 m 1370,0 -1340,0 0,10 -10,0 0,-10 m 1650,0 -1610,0 0,10 -10,0 0,-10 m 1820,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 1990,0 -1970,0 0,10 -10,0 0,-10 m 2180,0 -2150,0 0,10 -10,0 0,-10 M 0,40 10,40 10,50 0,50 0,40 m 200,0 -170,0 0,10 -10,0 0,-10 m 280,0 -260,0 0,10 -10,0 0,-10 m 370,0 -350,0 0,10 -10,0 0,-10 m 560,0 -530,0 0,10 -10,0 0,-10 m 740,0 -710,0 0,10 -10,0 0,-10 m 1120,0 -1070,0 0,10 -10,0 0,-10 m 1180,0 -1160,0 0,10 -10,0 0,-10 m 1270,0 -1250,0 0,10 -10,0 0,-10 m 1360,0 -1340,0 0,10 -10,0 0,-10 m 1450,0 -1430,0 0,10 -10,0 0,-10 m 1640,0 -1610,0 0,10 -10,0 0,-10 m 1820,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 1990,0 -1970,0 0,10 -10,0 0,-10 m 2180,0 -2150,0 0,10 -10,0 0,-10 M 0,50 10,50 10,60 0,60 0,50 m 600,0 -530,0 0,10 -10,0 0,-10 m 740,0 -710,0 0,10 -10,0 0,-10 m 820,0 -800,0 0,10 -10,0 0,-10 m 910,0 -890,0 0,10 -10,0 0,-10 m 1400,0 -1340,0 0,10 -10,0 0,-10 m 1650,0 -1610,0 0,10 -10,0 0,-10 m 2220,0 -2150,0 0,10 -10,0 0,-10 M 0,60 10,60 10,70 0,70 0,60 m 100,0 -80,0 0,10 -10,0 0,-10 m 190,0 -170,0 0,10 -10,0 0,-10 m 280,0 -260,0 0,10 -10,0 0,-10 m 370,0 -350,0 0,10 -10,0 0,-10 m 460,0 -440,0 0,10 -10,0 0,-10 m 550,0 -530,0 0,10 -10,0 0,-10 m 740,0 -710,0 0,10 -10,0 0,-10 m 920,0 -890,0 0,10 -10,0 0,-10 m 1100,0 -1070,0 0,10 -10,0 0,-10 m 1280,0 -1250,0 0,10 -10,0 0,-10 m 1460,0 -1430,0 0,10 -10,0 0,-10 m 1640,0 -1610,0 0,10 -10,0 0,-10 m 1720,0 -1700,0 0,10 -10,0 0,-10 m 1810,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 1990,0 -1970,0 0,10 -10,0 0,-10 m 2080,0 -2060,0 0,10 -10,0 0,-10 m 2170,0 -2150,0 0,10 -10,0 0,-10 m 660,10 -800,0 0,10 -10,0 0,-10 m 910,0 -890,0 0,10 -10,0 0,-10 m 1000,0 -980,0 0,10 -10,0 0,-10 m -10,10 -80,0 0,10 -10,0 0,-10 m 190,0 -170,0 0,10 -10,0 0,-10 m 280,0 -260,0 0,10 -10,0 0,-10 m 370,0 -350,0 0,10 -10,0 0,-10 m 460,0 -440,0 0,10 -10,0 0,-10 m 550,0 -530,0 0,10 -10,0 0,-10 m 640,0 -620,0 0,10 -10,0 0,-10 m 930,0 -890,0 0,10 -10,0 0,-10 m 1100,0 -1070,0 0,10 -10,0 0,-10 m 1780,0 -1700,0 0,10 -10,0 0,-10 m 1810,0 -1790,0 0,10 -10,0 0,-10 m 2200,0 -2150,0 0,10 -10,0 0,-10 M 0,90 l 10,0 0,10 -10,0 0,-10 m 100,0 -80,0 0,10 -10,0 0,-10 m 390,0 -350,0 0,10 -10,0 0,-10 m 660,0 -620,0 0,10 -10,0 0,-10 m 730,0 -710,0 0,10 -10,0 0,-10 m 820,0 -800,0 0,10 -10,0 0,-10 m 1010,0 -980,0 0,10 -10,0 0,-10 m 1190,0 -1160,0 0,10 -10,0 0,-10 m 1370,0 -1340,0 0,10 -10,0 0,-10 m 1450,0 -1430,0 0,10 -10,0 0,-10 m 1740,0 -1700,0 0,10 -10,0 0,-10 m 2110,0 -2060,0 0,10 -10,0 0,-10 m -230,10 10,0 0,10 -10,0 0,-10 m 500,0 -440,0 0,10 -10,0 0,-10 m 550,0 -530,0 0,10 -10,0 0,-10 m 640,0 -620,0 0,10 -10,0 0,-10 m 830,0 -800,0 0,10 -10,0 0,-10 m 910,0 -890,0 0,10 -10,0 0,-10 m 1100,0 -1070,0 0,10 -10,0 0,-10 m 1180,0 -1160,0 0,10 -10,0 0,-10 m 1270,0 -1250,0 0,10 -10,0 0,-10 m 1360,0 -1340,0 0,10 -10,0 0,-10 m 1550,0 -1520,0 0,10 -10,0 0,-10 m 1730,0 -1700,0 0,10 -10,0 0,-10 m 1810,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 2090,0 -2060,0 0,10 -10,0 0,-10 m 2170,0 -2150,0 0,10 -10,0 0,-10 m -240,10 10,0 0,10 -10,0 0,-10 m 100,0 -80,0 0,10 -10,0 0,-10 m 290,0 -260,0 0,10 -10,0 0,-10 m 370,0 -350,0 0,10 -10,0 0,-10 m 460,0 -440,0 0,10 -10,0 0,-10 m 850,0 -800,0 0,10 -10,0 0,-10 m 1210,0 -1160,0 0,10 -10,0 0,-10 m 1370,0 -1340,0 0,10 -10,0 0,-10 m 1550,0 -1520,0 0,10 -10,0 0,-10 m 1730,0 -1700,0 0,10 -10,0 0,-10 m 1810,0 -1790,0 0,10 -10,0 0,-10 m 2200,0 -2150,0 0,10 -10,0 0,-10 m -140,10 -80,0 0,10 -10,0 0,-10 m 290,0 -260,0 0,10 -10,0 0,-10 m 570,0 -530,0 0,10 -10,0 0,-10 m 840,0 -800,0 0,10 -10,0 0,-10 m 910,0 -890,0 0,10 -10,0 0,-10 m 1000,0 -980,0 0,10 -10,0 0,-10 m 1290,0 -1250,0 0,10 -10,0 0,-10 m 1360,0 -1340,0 0,10 -10,0 0,-10 m 1450,0 -1430,0 0,10 -10,0 0,-10 m 1640,0 -1610,0 0,10 -10,0 0,-10 m 1820,0 -1790,0 0,10 -10,0 0,-10 m 2000,0 -1970,0 0,10 -10,0 0,-10 m 2080,0 -2060,0 0,10 -10,0 0,-10 m 2170,0 -2150,0 0,10 -10,0 0,-10 m -240,10 10,0 0,10 -10,0 0,-10 m 100,0 -80,0 0,10 -10,0 0,-10 m 190,0 -170,0 0,10 -10,0 0,-10 m 380,0 -350,0 0,10 -10,0 0,-10 m 460,0 -440,0 0,10 -10,0 0,-10 m 850,0 -800,0 0,10 -10,0 0,-10 m 1110,0 -1070,0 0,10 -10,0 0,-10 m 1380,0 -1340,0 0,10 -10,0 0,-10 m 1450,0 -1430,0 0,10 -10,0 0,-10 m 1740,0 -1700,0 0,10 -10,0 0,-10 m 1910,0 -1880,0 0,10 -10,0 0,-10 m 2090,0 -2060,0 0,10 -10,0 0,-10 m -230,10 10,0 0,10 -10,0 0,-10 m 200,0 -170,0 0,10 -10,0 0,-10 m 280,0 -260,0 0,10 -10,0 0,-10 m 370,0 -350,0 0,10 -10,0 0,-10 m 560,0 -530,0 0,10 -10,0 0,-10 m 740,0 -710,0 0,10 -10,0 0,-10 m 920,0 -890,0 0,10 -10,0 0,-10 m 1100,0 -1070,0 0,10 -10,0 0,-10 m 1180,0 -1160,0 0,10 -10,0 0,-10 m 1270,0 -1250,0 0,10 -10,0 0,-10 m 1360,0 -1340,0 0,10 -10,0 0,-10 m 1450,0 -1430,0 0,10 -10,0 0,-10 m 1540,0 -1520,0 0,10 -10,0 0,-10 m 1730,0 -1700,0 0,10 -10,0 0,-10 m 1810,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 2090,0 -2060,0 0,10 -10,0 0,-10 m 2170,0 -2150,0 0,10 -10,0 0,-10 m -240,10 10,0 0,10 -10,0 0,-10 m 500,0 -440,0 0,10 -10,0 0,-10 m 650,0 -620,0 0,10 -10,0 0,-10 m 730,0 -710,0 0,10 -10,0 0,-10 m 820,0 -800,0 0,10 -10,0 0,-10 m 1010,0 -980,0 0,10 -10,0 0,-10 m 1090,0 -1070,0 0,10 -10,0 0,-10 m 1280,0 -1250,0 0,10 -10,0 0,-10 m 1460,0 -1430,0 0,10 -10,0 0,-10 m 1740,0 -1700,0 0,10 -10,0 0,-10 m 1910,0 -1880,0 0,10 -10,0 0,-10 m 2190,0 -2150,0 0,10 -10,0 0,-10 m -240,10 10,0 0,10 -10,0 0,-10 m 500,0 -440,0 0,10 -10,0 0,-10 m 550,0 -530,0 0,10 -10,0 0,-10 m 640,0 -620,0 0,10 -10,0 0,-10 m 930,0 -890,0 0,10 -10,0 0,-10 m 1100,0 -1070,0 0,10 -10,0 0,-10 m 1180,0 -1160,0 0,10 -10,0 0,-10 m 1470,0 -1430,0 0,10 -10,0 0,-10 m 1540,0 -1520,0 0,10 -10,0 0,-10 m 1630,0 -1610,0 0,10 -10,0 0,-10 m 1720,0 -1700,0 0,10 -10,0 0,-10 m 1810,0 -1790,0 0,10 -10,0 0,-10 m 2000,0 -1970,0 0,10 -10,0 0,-10 m 580,10 -710,0 0,10 -10,0 0,-10 m 1020,0 -980,0 0,10 -10,0 0,-10 m 1190,0 -1160,0 0,10 -10,0 0,-10 m 1270,0 -1250,0 0,10 -10,0 0,-10 m 1360,0 -1340,0 0,10 -10,0 0,-10 m 1450,0 -1430,0 0,10 -10,0 0,-10 m 1840,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 1990,0 -1970,0 0,10 -10,0 0,-10 m -220,10 10,0 0,10 -10,0 0,-10 m 100,0 -80,0 0,10 -10,0 0,-10 m 190,0 -170,0 0,10 -10,0 0,-10 m 280,0 -260,0 0,10 -10,0 0,-10 m 370,0 -350,0 0,10 -10,0 0,-10 m 460,0 -440,0 0,10 -10,0 0,-10 m 550,0 -530,0 0,10 -10,0 0,-10 m 740,0 -710,0 0,10 -10,0 0,-10 m 820,0 -800,0 0,10 -10,0 0,-10 m 1210,0 -1160,0 0,10 -10,0 0,-10 m 1270,0 -1250,0 0,10 -10,0 0,-10 m 1460,0 -1430,0 0,10 -10,0 0,-10 m 1640,0 -1610,0 0,10 -10,0 0,-10 m 1820,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 1990,0 -1970,0 0,10 -10,0 0,-10 m 2080,0 -2060,0 0,10 -10,0 0,-10 m 2170,0 -2150,0 0,10 -10,0 0,-10 m -240,10 10,0 0,10 -10,0 0,-10 m 600,0 -530,0 0,10 -10,0 0,-10 m 740,0 -710,0 0,10 -10,0 0,-10 m 820,0 -800,0 0,10 -10,0 0,-10 m 910,0 -890,0 0,10 -10,0 0,-10 m 1000,0 -980,0 0,10 -10,0 0,-10 m 1090,0 -1070,0 0,10 -10,0 0,-10 m 1280,0 -1250,0 0,10 -10,0 0,-10 m 1360,0 -1340,0 0,10 -10,0 0,-10 m 1450,0 -1430,0 0,10 -10,0 0,-10 m 1840,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 2090,0 -2060,0 0,10 -10,0 0,-10 m -230,10 10,0 0,10 -10,0 0,-10 m 200,0 -170,0 0,10 -10,0 0,-10 m 280,0 -260,0 0,10 -10,0 0,-10 m 370,0 -350,0 0,10 -10,0 0,-10 m 560,0 -530,0 0,10 -10,0 0,-10 m 740,0 -710,0 0,10 -10,0 0,-10 m 820,0 -800,0 0,10 -10,0 0,-10 m 1210,0 -1160,0 0,10 -10,0 0,-10 m 1270,0 -1250,0 0,10 -10,0 0,-10 m 1360,0 -1340,0 0,10 -10,0 0,-10 m 1450,0 -1430,0 0,10 -10,0 0,-10 m 1540,0 -1520,0 0,10 -10,0 0,-10 m 1630,0 -1610,0 0,10 -10,0 0,-10 m 1720,0 -1700,0 0,10 -10,0 0,-10 m 1810,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 1990,0 -1970,0 0,10 -10,0 0,-10 m 2180,0 -2150,0 0,10 -10,0 0,-10 m -240,10 10,0 0,10 -10,0 0,-10 m 200,0 -170,0 0,10 -10,0 0,-10 m 280,0 -260,0 0,10 -10,0 0,-10 m 370,0 -350,0 0,10 -10,0 0,-10 m 560,0 -530,0 0,10 -10,0 0,-10 m 740,0 -710,0 0,10 -10,0 0,-10 m 820,0 -800,0 0,10 -10,0 0,-10 m 1010,0 -980,0 0,10 -10,0 0,-10 m 1090,0 -1070,0 0,10 -10,0 0,-10 m 1180,0 -1160,0 0,10 -10,0 0,-10 m 1370,0 -1340,0 0,10 -10,0 0,-10 m 1550,0 -1520,0 0,10 -10,0 0,-10 m 1630,0 -1610,0 0,10 -10,0 0,-10 m 1820,0 -1790,0 0,10 -10,0 0,-10 m 2000,0 -1970,0 0,10 -10,0 0,-10 m 2080,0 -2060,0 0,10 -10,0 0,-10 m 2170,0 -2150,0 0,10 -10,0 0,-10 m -240,10 10,0 0,10 -10,0 0,-10 m 200,0 -170,0 0,10 -10,0 0,-10 m 280,0 -260,0 0,10 -10,0 0,-10 m 370,0 -350,0 0,10 -10,0 0,-10 m 560,0 -530,0 0,10 -10,0 0,-10 m 740,0 -710,0 0,10 -10,0 0,-10 m 1020,0 -980,0 0,10 -10,0 0,-10 m 1090,0 -1070,0 0,10 -10,0 0,-10 m 1180,0 -1160,0 0,10 -10,0 0,-10 m 1270,0 -1250,0 0,10 -10,0 0,-10 m 1460,0 -1430,0 0,10 -10,0 0,-10 m 1740,0 -1700,0 0,10 -10,0 0,-10 m 2010,0 -1970,0 0,10 -10,0 0,-10 m 2180,0 -2150,0 0,10 -10,0 0,-10 m -240,10 10,0 0,10 -10,0 0,-10 m 600,0 -530,0 0,10 -10,0 0,-10 m 740,0 -710,0 0,10 -10,0 0,-10 m 820,0 -800,0 0,10 -10,0 0,-10 m 1010,0 -980,0 0,10 -10,0 0,-10 m 1090,0 -1070,0 0,10 -10,0 0,-10 m 1380,0 -1340,0 0,10 -10,0 0,-10 m 1450,0 -1430,0 0,10 -10,0 0,-10 m 1540,0 -1520,0 0,10 -10,0 0,-10 m 1630,0 -1610,0 0,10 -10,0 0,-10 m 1720,0 -1700,0 0,10 -10,0 0,-10 m 1810,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 2190,0 -2150,0 0,10 -10,0 0,-10 m -240,10 10,0 0,10 -10,0 0,-10 m 100,0 -80,0 0,10 -10,0 0,-10 m 190,0 -170,0 0,10 -10,0 0,-10 m 280,0 -260,0 0,10 -10,0 0,-10 m 370,0 -350,0 0,10 -10,0 0,-10 m 460,0 -440,0 0,10 -10,0 0,-10 m 550,0 -530,0 0,10 -10,0 0,-10 m 1040,0 -980,0 0,10 -10,0 0,-10 m 1090,0 -1070,0 0,10 -10,0 0,-10 m 1280,0 -1250,0 0,10 -10,0 0,-10 m 1560,0 -1520,0 0,10 -10,0 0,-10 m 1730,0 -1700,0 0,10 -10,0 0,-10 m 1810,0 -1790,0 0,10 -10,0 0,-10 m 1900,0 -1880,0 0,10 -10,0 0,-10 m 1990,0 -1970,0 0,10 -10,0 0,-10 m 2080,0 -2060,0 0,10 -10,0 0,-10 m 2170,0 -2150,0 0,10 -10,0 0,-10 z"
+           style="fill:#000000"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:35.94699097px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="216.2392"
+       y="926.78998"
+       id="text3858-1-8"
+       sodipodi:linespacing="125%"
+       transform="scale(0.89867478,1.1127496)"><tspan
+         sodipodi:role="line"
+         x="216.2392"
+         y="926.78998"
+         id="tspan3992">http://juggr.pbworks.com </tspan></text>
   </g>
 </svg>
